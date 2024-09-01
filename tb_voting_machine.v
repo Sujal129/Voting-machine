@@ -1,12 +1,5 @@
-/////////////////////////////////////////////////////////////////////////////////////////
-// Filename: tb_voting_machine.v
-// Author: sujal
-// Date created: 30-11-2020
 // Compiler: iverilog v11 
-// Description: Design of testbench for Voting machine with 3 candidate choices .
-//version: 2 = added more stimulus and comments
-//
-/////////////////////////////////////////////////////////////////////////////////////////
+//Description: Design of testbench for Voting machine with 3 candidate choices 
 
 
 //`include "Voting_machine_final.v"              // `include => *only applicable for iverilog simulation, remove this line while using other simulators
