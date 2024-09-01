@@ -1,11 +1,4 @@
-/////////////////////////////////////////////////////////////////////////////////////////
-// Filename: voting_machine.v
-// Date created: 08-11-2020
-// Simulation: iverilog v11, GTKWave 
-// Description: Design of a 3 candidate voting machine using state machine.
-// Nomencleture: i = Input, o = Output, r = register
-//             
-/////////////////////////////////////////////////////////////////////////////////////////
+ // Design of a 3 candidate voting machine using state machine           
 
 module voting_machine #(
 parameter idle =  2'b00,					// states and their corresponding numbers
